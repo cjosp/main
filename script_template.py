@@ -2,7 +2,7 @@
 
 """
 # courtesy of /jorvis
-# run as ./script_template.py -i input.file -o output.file
+# run as ./script_template.py -i input.file -o output.file or ./script_template.py --input_file input.file --output_file out.results
 Put some general, high-level documentation here
 
 """
