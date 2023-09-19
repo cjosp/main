@@ -2,6 +2,7 @@
 
 """
 # courtesy of /jorvis
+# run as ./script_template.py -i input.file -o output.file
 Put some general, high-level documentation here
 
 """
